@@ -10,6 +10,6 @@ https://zens-assignment.herokuapp.com/api/jokes
 
 ### Get Single Joke:
 
-https://zens-assignment.herokuapp.com/api/joke/:id
+`https://zens-assignment.herokuapp.com/api/joke/:id`
 
 ex: https://zens-assignment.herokuapp.com/api/joke/JK01

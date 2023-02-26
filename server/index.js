@@ -9,7 +9,7 @@ const app = express();
 
 const domains = [
   "http://localhost:3001",
-  "https://zens-assigment-ui.herokuapp.com/"
+  "https://zens-assignment-ui.herokuapp.com/"
 ]
 
 const corsOptions = {

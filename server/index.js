@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 3002;
 const app = express();
 
 const domains = [
-  "http://localhost:3000",
+  "http://localhost:3001",
+  "https://zens-assigment-ui.herokuapp.com/"
 ]
 
 const corsOptions = {

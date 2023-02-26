@@ -5,11 +5,11 @@ data of jokes is stored in https://github.com/Banhbaogia93/Joke-Backend/blob/mai
 
 ### List of Jokes:
 
-https://zens-assigment.herokuapp.com/api/jokes
+https://zens-assignment.herokuapp.com/api/jokes
 
 
 ### Get Single Joke:
 
-https://zens-assigment.herokuapp.com/api/joke/:id
+https://zens-assignment.herokuapp.com/api/joke/:id
 
-ex: https://zens-assigment.herokuapp.com/api/joke/JK01
+ex: https://zens-assignment.herokuapp.com/api/joke/JK01

@@ -1,6 +1,6 @@
 #Algorithm
 
-This is my assignment for algorithm.
+This is my assignment for algorithm. [https://github.com/Banhbaogia93/Joke-Backend/blob/main/server/algorithm.js]
 
 From ZenS [https://github.com/hl-solutions/hl-assignment/tree/master/algorithm]
 

@@ -6,7 +6,7 @@ From ZenS [https://github.com/hl-solutions/hl-assignment/tree/master/algorithm]
 
 ## For testing
 
-`https://zens-assignment.herokuapp.com/algorithm`
+https://zens-assignment.herokuapp.com/algorithm
 
 My result will be returned:
 - :white_check_mark: Input array

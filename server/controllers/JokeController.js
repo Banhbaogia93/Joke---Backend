@@ -1,4 +1,4 @@
-import jokes from "../jokes.js";
+const jokes = require("../jokes.js");
 
 const getJokes = ((req, res) => {
   res.json(jokes)
@@ -12,7 +12,7 @@ const getJoke = ((req, res) => {
   res.json(joke);
 })
 
-export default {
+module.exports = {
   getJokes,
   getJoke,
 }

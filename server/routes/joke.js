@@ -1,10 +1,13 @@
-import { Router } from 'express'
-import { getJokes, getJoke } from '../controllers/JokeController.js'
+const express = require('express')
+const router = express.Router()
 
-const router = Router()
+const  { 
+    getJokes,
+    getJoke
+} = require('../controllers/JokeController.js')
 
 router.get('/', getJokes)
 
 router.get('/:jokeID', getJoke)
 
-export default router
+module.exports = router

@@ -3,6 +3,8 @@ const miniMaxSum = (arr) =>  {
 
   let minSum = 0
   let maxSum = 0
+  let evenArray = []
+  let oddArray = []
 
   const sumArray = arr.reduce((prev, current) => prev + current, 0)
 
@@ -26,4 +28,4 @@ const miniMaxSum = (arr) =>  {
   } 
 }
 
-module.exports = miniMaxSum
+export default miniMaxSum

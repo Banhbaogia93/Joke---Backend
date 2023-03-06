@@ -1,9 +1,10 @@
-const express = require("express");
-const cors = require("cors");
+import express from "express";
+import cors from "cors";
 
-const joke_routes = require('./routes/joke.js')
-const miniMaxSum = require('./algorithm.js')
+import joke_routes from './routes/joke.js';
+import miniMaxSum from './algorithm.js';
 
+// eslint-disable-next-line
 const PORT = process.env.PORT || 3002;
 const app = express();
 

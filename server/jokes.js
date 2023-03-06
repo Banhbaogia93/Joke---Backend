@@ -17,4 +17,4 @@ const jokes = {
   }
 };
 
-export default jokes
+module.exports = jokes

@@ -1,8 +1,8 @@
-import express from "express";
-import cors from "cors";
+const express = require("express");
+const cors = require("cors");
 
-import joke_routes from './routes/joke.js';
-import miniMaxSum from './algorithm.js';
+const joke_routes = require('./routes/joke.js')
+const miniMaxSum = require('./algorithm.js')
 
 // eslint-disable-next-line
 const PORT = process.env.PORT || 3002;

@@ -10,7 +10,7 @@ const app = express();
 
 const domains = [
   "https://zens-assignment-ui.herokuapp.com",
-  "http://localhost:300",
+  "http://localhost:3001",
 ]
 
 const corsOptions = {
